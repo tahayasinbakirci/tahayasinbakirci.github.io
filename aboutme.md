@@ -6,8 +6,8 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Inigo Montoya. I have the following qualities:
 
-- I am a real person
-- I'm extremely loyal to my family
+- I am a good person
+- I love my family extremely
 
 What else do you need?
 
